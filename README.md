@@ -17,15 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
