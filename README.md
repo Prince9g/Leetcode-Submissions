@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0414-third-maximum-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
@@ -60,5 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
