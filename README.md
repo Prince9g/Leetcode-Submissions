@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
