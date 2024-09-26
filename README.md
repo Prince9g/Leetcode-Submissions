@@ -108,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
