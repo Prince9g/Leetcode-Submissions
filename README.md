@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0414-third-maximum-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -100,14 +102,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
