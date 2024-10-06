@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
