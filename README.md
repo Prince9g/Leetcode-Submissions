@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Counting
 |  |
