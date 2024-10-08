@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
