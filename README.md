@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
+| [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
