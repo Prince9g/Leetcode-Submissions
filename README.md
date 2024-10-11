@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 ## Binary Tree
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 ## Trie
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Stack
