@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -239,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
