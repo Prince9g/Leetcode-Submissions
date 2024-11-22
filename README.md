@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0841-shortest-distance-to-a-character) |
