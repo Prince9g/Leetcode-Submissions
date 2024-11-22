@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0279-perfect-squares](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0670-maximum-swap) |
