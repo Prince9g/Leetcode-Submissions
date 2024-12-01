@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1304-longest-happy-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2716-prime-subtraction-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
