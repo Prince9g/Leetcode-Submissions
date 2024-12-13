@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Counting
