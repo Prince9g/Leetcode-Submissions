@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0220-contains-duplicate-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0841-shortest-distance-to-a-character) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
