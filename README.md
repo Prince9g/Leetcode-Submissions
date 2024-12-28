@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
