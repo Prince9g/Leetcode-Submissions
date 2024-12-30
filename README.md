@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0824-number-of-lines-to-write-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0494-target-sum) |
