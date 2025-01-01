@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
