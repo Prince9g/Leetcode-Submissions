@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [2465-shifting-letters-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3427-special-array-ii) |
