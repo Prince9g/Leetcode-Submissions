@@ -1,37 +1,30 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        deque<int>q;
         vector<int>ans;
-        deque<int>dq;
-        //process first k elements from the array
+        //process first window of k size
         for(int i=0; i<k; i++){
-            int element = nums[i];
-            //removal of minimum numbers besides element
-            while(!dq.empty() && element > nums[dq.back()]){
-                dq.pop_back();
+            while(!q.empty() && nums[q.back()] < nums[i]){
+                q.pop_back();
             }
-            //push the maximum element index in the queue
-            dq.push_back(i);
+            q.push_back(i);
         }
-
-        //now the turn for removals and process other windows of array
-        for(int i=k; i<nums.size(); i++){
-            ans.push_back(nums[dq.front()]);
-            int element = nums[i];
-            //removal of out of bound
-            if(i - dq.front() >= k){
-                dq.pop_front();
+        //process remaining window
+        int n = nums.size();
+        ans.push_back(nums[q.front()]);
+        for(int i=k; i<n; i++){
+            //remove the outside window elements
+            if(i - k >= q.front()){
+                q.pop_front();
             }
-            //removal of not maximums
-            while(!dq.empty() && element > nums[dq.back()]){
-                dq.pop_back();
+            //remove min element
+            while(!q.empty() && nums[q.back()] < nums[i]){
+                q.pop_back();
             }
-            //addition
-            dq.push_back(i);
+            q.push_back(i);
+            ans.push_back(nums[q.front()]);
         }
-
-        //last window ko process krdo
-        ans.push_back(nums[dq.front()]);
         return ans;
     }
 };
