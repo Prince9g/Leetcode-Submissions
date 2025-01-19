@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0787-sliding-puzzle) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0787-sliding-puzzle) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
