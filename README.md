@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0824-number-of-lines-to-write-string) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0494-target-sum) |
@@ -609,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
