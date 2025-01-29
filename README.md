@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [0975-range-sum-of-bst](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1396-count-servers-that-communicate) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
