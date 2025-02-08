@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
