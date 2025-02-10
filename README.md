@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1396-count-servers-that-communicate) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Data Stream
@@ -608,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
