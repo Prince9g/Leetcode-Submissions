@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3429-special-array-i) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
