@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0841-shortest-distance-to-a-character) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0889-buddy-strings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0889-buddy-strings) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
