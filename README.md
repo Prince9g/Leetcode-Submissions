@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1876-map-of-highest-peak](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0494-target-sum) |
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
