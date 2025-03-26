@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
