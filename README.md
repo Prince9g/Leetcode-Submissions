@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0140-word-break-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0670-maximum-swap) |
