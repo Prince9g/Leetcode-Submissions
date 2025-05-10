@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0279-perfect-squares](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
