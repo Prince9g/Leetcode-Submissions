@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0091-decode-ways) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0670-maximum-swap) |
