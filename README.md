@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2690-house-robber-iv) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2465-shifting-letters-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
