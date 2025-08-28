@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Breadth-First Search
 |  |
 | ------- |
