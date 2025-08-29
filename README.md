@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
 |  |
 | ------- |
