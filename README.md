@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3462-vowels-game-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
 | ------- |
