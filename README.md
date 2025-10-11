@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
