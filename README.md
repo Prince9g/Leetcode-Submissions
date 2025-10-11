@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3797-design-spreadsheet) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Segment Tree
 |  |
 | ------- |
@@ -699,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
 | ------- |
