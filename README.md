@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3429-special-array-i) |
+| [3433-count-mentions-per-user](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3433-count-mentions-per-user](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3531-count-covered-buildings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3433-count-mentions-per-user](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3433-count-mentions-per-user](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
