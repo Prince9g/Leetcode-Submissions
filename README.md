@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3531-count-covered-buildings) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3606-coupon-code-validator) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
