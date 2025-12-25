@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3433-count-mentions-per-user](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Prince9g/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prince9g/Leetcode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Enumeration
 |  |
 | ------- |
