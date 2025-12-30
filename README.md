@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0824-number-of-lines-to-write-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0824-number-of-lines-to-write-string) |
+| [0840-magic-squares-in-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0841-shortest-distance-to-a-character) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0840-magic-squares-in-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0889-buddy-strings](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0889-buddy-strings) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0952-word-subsets) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0787-sliding-puzzle) |
+| [0840-magic-squares-in-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0670-maximum-swap) |
+| [0840-magic-squares-in-grid](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Prince9g/Leetcode-Submissions/tree/master/1395-minimum-time-visiting-all-points) |
