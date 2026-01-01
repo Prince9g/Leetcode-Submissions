@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0279-perfect-squares](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Prince9g/Leetcode-Submissions/tree/master/0342-power-of-four) |
